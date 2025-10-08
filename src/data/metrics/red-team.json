@@ -1,0 +1,222 @@
+[
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Detection Rate",
+    "MetricDescription": "Percentage of red team activities detected by the organization's security measures\nCalculation: (Number of detected activities / Total number of red team activities) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "85% or higher",
+    "Comment": "A high detection rate indicates effective monitoring and detection capabilities.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Response Time",
+    "MetricDescription": "Average time taken to respond to detected red team activities\nCalculation: Total response time divided by the number of detected activities.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 1 hour",
+    "Comment": "Minimizing response time is crucial for effective incident handling and mitigation.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Exploitation Success Rate",
+    "MetricDescription": "Percentage of successful exploitations during red team exercises\nCalculation: (Number of successful exploitations / Total number of exploitations attempted) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 10%",
+    "Comment": "A low exploitation success rate indicates strong defensive measures and security controls.",
+    "Contributor": "-",
+    "Source": "OWASP Testing Guide"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Attack Path Coverage",
+    "MetricDescription": "Percentage of potential attack paths tested during red team exercises\nCalculation: (Number of attack paths tested / Total number of identified attack paths) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "Comprehensive attack path coverage ensures thorough testing of the organization's security posture.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Post-Engagement Remediation Rate",
+    "MetricDescription": "Percentage of identified vulnerabilities remediated after red team engagements\nCalculation: (Number of vulnerabilities remediated / Total number of vulnerabilities identified) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher within 30 days",
+    "Comment": "Effective remediation of identified vulnerabilities is critical for improving security posture.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-53: Security and Privacy Controls for Federal Information Systems and Organizations"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Exercise Frequency",
+    "MetricDescription": "Number of red team exercises conducted within a given period\nCalculation: Total count of red team exercises.",
+    "ReportPeriod": "Annual",
+    "Target": "At least 4 per year",
+    "Comment": "Regular red team exercises help in continuously assessing and improving security defenses.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-115: Technical Guide to Information Security Testing and Assessment"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Breach Impact",
+    "MetricDescription": "Average impact of successful breaches during red team exercises\nCalculation: Total impact score divided by the number of successful breaches.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Reduction by 20% each quarter",
+    "Comment": "Reducing the impact of breaches helps in limiting the potential damage to the organization.",
+    "Contributor": "-",
+    "Source": "ENISA: Threat Landscape Report"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Tactics, Techniques, and Procedures (TTPs) Tested",
+    "MetricDescription": "Number of distinct TTPs tested during red team engagements\nCalculation: Total count of distinct TTPs tested.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Increase by 10% each quarter",
+    "Comment": "Testing a wide range of TTPs ensures comprehensive assessment of the organization's security posture.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Phishing Simulation Success Rate",
+    "MetricDescription": "Percentage of successful phishing attempts during red team exercises\nCalculation: (Number of successful phishing attempts / Total number of phishing attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 5%",
+    "Comment": "Lowering the success rate of phishing simulations indicates improved employee awareness and training effectiveness.",
+    "Contributor": "-",
+    "Source": "ENISA: Phishing - Threat Landscape and Good Practice Guide"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Adversary Emulation Coverage",
+    "MetricDescription": "Percentage of high-risk adversary scenarios emulated during red team exercises\nCalculation: (Number of high-risk scenarios emulated / Total number of high-risk scenarios identified) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Emulating high-risk adversary scenarios helps in preparing for real-world threats.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Detection to Containment Time",
+    "MetricDescription": "Average time taken to contain an incident after detection during red team exercises\nCalculation: Total time to containment divided by the number of incidents.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 2 hours",
+    "Comment": "Minimizing containment time reduces the potential impact of security incidents.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Escalation Rate",
+    "MetricDescription": "Percentage of incidents that required escalation during red team exercises\nCalculation: (Number of escalated incidents / Total number of incidents) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 10%",
+    "Comment": "Lowering the escalation rate indicates effective initial incident handling.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Cost of Remediation",
+    "MetricDescription": "Average cost of remediating vulnerabilities identified during red team exercises\nCalculation: Total remediation cost divided by the number of vulnerabilities.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Reduction by 10% each quarter",
+    "Comment": "Managing remediation costs helps in efficient allocation of resources for improving security posture.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-30: Guide for Conducting Risk Assessments"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Training Effectiveness",
+    "MetricDescription": "Percentage improvement in detection and response capabilities after red team training\nCalculation: ((Post-training performance - Pre-training performance) / Pre-training performance) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "20% improvement",
+    "Comment": "Improving training effectiveness ensures better preparedness against potential attacks.",
+    "Contributor": "-",
+    "Source": "SANS Institute: Red Team Training"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Adversary Dwell Time",
+    "MetricDescription": "Average time an adversary remains undetected during red team exercises\nCalculation: Total dwell time divided by the number of exercises.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Reduction by 10% each quarter",
+    "Comment": "Reducing adversary dwell time is crucial for minimizing the potential damage caused by security breaches.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Privilege Escalation Success Rate",
+    "MetricDescription": "Percentage of successful privilege escalation attempts during red team exercises\nCalculation: (Number of successful privilege escalations / Total number of attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 5%",
+    "Comment": "A low success rate indicates strong access control mechanisms.",
+    "Contributor": "-",
+    "Source": "OWASP Testing Guide"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Lateral Movement Success Rate",
+    "MetricDescription": "Percentage of successful lateral movement attempts during red team exercises\nCalculation: (Number of successful lateral movements / Total number of attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 5%",
+    "Comment": "A low success rate indicates strong internal segmentation and access controls.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Command and Control Detection Rate",
+    "MetricDescription": "Percentage of command and control attempts detected during red team exercises\nCalculation: (Number of detected C2 attempts / Total number of C2 attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "High detection rate indicates effective monitoring of outbound communications.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Data Exfiltration Detection Rate",
+    "MetricDescription": "Percentage of data exfiltration attempts detected during red team exercises\nCalculation: (Number of detected exfiltration attempts / Total number of exfiltration attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "High detection rate of data exfiltration attempts indicates robust data protection measures.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Red Team",
+    "SubCategory": null,
+    "MetricTitle": "Red Team Work Factor (RTWF)",
+    "MetricDescription": "Time spent by Red Team in all aspects of attack development and execution",
+    "ReportPeriod": "Specific Red Team activities",
+    "Target": "Increase RTWF by x% next time",
+    "Comment": "The total RTWF for each attack included the time it takes to do network discovery, develop and test the exploit, and successfully\n run the exploit to capture the flag. \n \n Increasing RTWF means that Red Team has much more defences to penetrate during an engagement",
+    "Contributor": "-",
+    "Source": "Lessons Learned in Using Live Red Teams in IA Experiments \n https://ieeexplore.ieee.org/document/1194877"
+  }
+]

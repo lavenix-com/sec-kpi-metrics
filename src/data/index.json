@@ -1,0 +1,224 @@
+[
+  {
+    "category": "Application Security",
+    "slug": "application-security",
+    "file": "./metrics/application-security.json",
+    "count": 4
+  },
+  {
+    "category": "Audit Trails",
+    "slug": "audit-trails",
+    "file": "./metrics/audit-trails.json",
+    "count": 11
+  },
+  {
+    "category": "Authorize Processing",
+    "slug": "authorize-processing",
+    "file": "./metrics/authorize-processing.json",
+    "count": 2
+  },
+  {
+    "category": "Awareness",
+    "slug": "awareness",
+    "file": "./metrics/awareness.json",
+    "count": 11
+  },
+  {
+    "category": "Blue Team",
+    "slug": "blue-team",
+    "file": "./metrics/blue-team.json",
+    "count": 10
+  },
+  {
+    "category": "Change Management",
+    "slug": "change-management",
+    "file": "./metrics/change-management.json",
+    "count": 3
+  },
+  {
+    "category": "Configuration Management",
+    "slug": "configuration-management",
+    "file": "./metrics/configuration-management.json",
+    "count": 2
+  },
+  {
+    "category": "Contingency Planning",
+    "slug": "contingency-planning",
+    "file": "./metrics/contingency-planning.json",
+    "count": 3
+  },
+  {
+    "category": "Data Integrity",
+    "slug": "data-integrity",
+    "file": "./metrics/data-integrity.json",
+    "count": 2
+  },
+  {
+    "category": "Documentation",
+    "slug": "documentation",
+    "file": "./metrics/documentation.json",
+    "count": 2
+  },
+  {
+    "category": "Financials",
+    "slug": "financials",
+    "file": "./metrics/financials.json",
+    "count": 2
+  },
+  {
+    "category": "Identification and Authentication",
+    "slug": "identification-and-authentication",
+    "file": "./metrics/identification-and-authentication.json",
+    "count": 2
+  },
+  {
+    "category": "Incident Management",
+    "slug": "incident-management",
+    "file": "./metrics/incident-management.json",
+    "count": 9
+  },
+  {
+    "category": "Incident Response",
+    "slug": "incident-response",
+    "file": "./metrics/incident-response.json",
+    "count": 2
+  },
+  {
+    "category": "Internal Controls",
+    "slug": "internal-controls",
+    "file": "./metrics/internal-controls.json",
+    "count": 1
+  },
+  {
+    "category": "IoT",
+    "slug": "iot",
+    "file": "./metrics/iot.json",
+    "count": 15
+  },
+  {
+    "category": "Logical Access Control",
+    "slug": "logical-access-control",
+    "file": "./metrics/logical-access-control.json",
+    "count": 3
+  },
+  {
+    "category": "Maintenance",
+    "slug": "maintenance",
+    "file": "./metrics/maintenance.json",
+    "count": 3
+  },
+  {
+    "category": "Measuring Defenses",
+    "slug": "measuring-defenses",
+    "file": "./metrics/measuring-defenses.json",
+    "count": 1
+  },
+  {
+    "category": "Operations",
+    "slug": "operations",
+    "file": "./metrics/operations.json",
+    "count": 4
+  },
+  {
+    "category": "OT/ICS",
+    "slug": "ot-ics",
+    "file": "./metrics/ot-ics.json",
+    "count": 18
+  },
+  {
+    "category": "Patch Management",
+    "slug": "patch-management",
+    "file": "./metrics/patch-management.json",
+    "count": 7
+  },
+  {
+    "category": "Personnel Security",
+    "slug": "personnel-security",
+    "file": "./metrics/personnel-security.json",
+    "count": 2
+  },
+  {
+    "category": "Phishing",
+    "slug": "phishing",
+    "file": "./metrics/phishing.json",
+    "count": 12
+  },
+  {
+    "category": "Physical Security",
+    "slug": "physical-security",
+    "file": "./metrics/physical-security.json",
+    "count": 3
+  },
+  {
+    "category": "Process Control System",
+    "slug": "process-control-system",
+    "file": "./metrics/process-control-system.json",
+    "count": 39
+  },
+  {
+    "category": "Purple Team",
+    "slug": "purple-team",
+    "file": "./metrics/purple-team.json",
+    "count": 11
+  },
+  {
+    "category": "Red Team",
+    "slug": "red-team",
+    "file": "./metrics/red-team.json",
+    "count": 20
+  },
+  {
+    "category": "Risk Assessment",
+    "slug": "risk-assessment",
+    "file": "./metrics/risk-assessment.json",
+    "count": 12
+  },
+  {
+    "category": "Security Controls",
+    "slug": "security-controls",
+    "file": "./metrics/security-controls.json",
+    "count": 2
+  },
+  {
+    "category": "Security Program",
+    "slug": "security-program",
+    "file": "./metrics/security-program.json",
+    "count": 13
+  },
+  {
+    "category": "Software Development",
+    "slug": "software-development",
+    "file": "./metrics/software-development.json",
+    "count": 22
+  },
+  {
+    "category": "Software Development Lifecycle (SDLC)",
+    "slug": "software-development-lifecycle-sdlc",
+    "file": "./metrics/software-development-lifecycle-sdlc.json",
+    "count": 12
+  },
+  {
+    "category": "Support",
+    "slug": "support",
+    "file": "./metrics/support.json",
+    "count": 2
+  },
+  {
+    "category": "System Security",
+    "slug": "system-security",
+    "file": "./metrics/system-security.json",
+    "count": 7
+  },
+  {
+    "category": "System Security Plan",
+    "slug": "system-security-plan",
+    "file": "./metrics/system-security-plan.json",
+    "count": 2
+  },
+  {
+    "category": "Vulnerability Management",
+    "slug": "vulnerability-management",
+    "file": "./metrics/vulnerability-management.json",
+    "count": 13
+  }
+]

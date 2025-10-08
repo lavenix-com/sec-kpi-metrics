@@ -1,0 +1,200 @@
+[
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Incident Detection Time",
+    "MetricDescription": "Average time taken to detect security incidents in OT/ICS environments\nCalculation: Total time taken to detect incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 24 hours",
+    "Comment": "Speed of incident detection is critical in minimizing potential damage in OT/ICS systems.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-82: Guide to Industrial Control Systems (ICS) Security"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Patch Management Effectiveness",
+    "MetricDescription": "Percentage of OT/ICS systems patched within a defined period after the release of a security patch\nCalculation: (Number of systems patched / Total number of systems) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "Effective patch management is crucial to protect OT/ICS systems from known vulnerabilities.",
+    "Contributor": "-",
+    "Source": "IEC 62443: Industrial communication networks – Network and system security"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Unauthorized Access Attempts",
+    "MetricDescription": "Number of unauthorized access attempts detected in OT/ICS environments\nCalculation: Total count of unauthorized access attempts.",
+    "ReportPeriod": "Monthly",
+    "Target": "0",
+    "Comment": "Monitoring and preventing unauthorized access is essential for the security of OT/ICS systems.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27019: Information security management guidelines based on ISO/IEC 27002 for process control systems specific to the energy industry"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time to Recovery (MTTR)",
+    "MetricDescription": "Average time taken to recover from a security incident in OT/ICS environments\nCalculation: Total downtime divided by the number of incidents.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 4 hours",
+    "Comment": "Minimizing recovery time is vital to ensure the continuity of operations in OT/ICS environments.",
+    "Contributor": "-",
+    "Source": "ENISA: Guidelines for Cybersecurity in ICS-DCS, NIS Directive"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "System Availability",
+    "MetricDescription": "Percentage of time OT/ICS systems are operational and available for use\nCalculation: (Total uptime / Total time) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "99.99% or higher",
+    "Comment": "High system availability is critical to ensure continuous and reliable operations.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Hygiene Score ",
+    "MetricDescription": "An aggregate score indicating the overall cyber security posture available in some products (such as Claroty) for assets that are in its scope ",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": null
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Asset Count ",
+    "MetricDescription": "Total OT/ICS assets",
+    "ReportPeriod": "Organization-defined",
+    "Target": "None",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": null
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Rogue Change Days",
+    "MetricDescription": "Number of days a rogue change was unknown to the security group\nCalculation: The number of rogue changes multiplied by the number of days the changes were unknown to the security group.",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n",
+    "Comment": "A rogue change is a change done without prior notification to the Security Group",
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Security Evaluation Deficiency Count",
+    "MetricDescription": "Number of control systems network devices that have not undergone a security evaluation",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Data Transmission Exposure",
+    "MetricDescription": "The number of unencrypted communication channels in use by devices within the control system boundary",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Reachability Count",
+    "MetricDescription": "Number of access points (relative to a specific point of origin, such as the Internet)",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": "See the document for calculation guidance and the \"discussion\" section around this ",
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Attack Path Depth",
+    "MetricDescription": "Minimum number of independent, single-machine compromises required for a successful attack from an external network",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better",
+    "Comment": "See the document for calculation guidance",
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Known Vulnerability Days",
+    "MetricDescription": "Sum of known and unpatched vulnerabilities, each multiplied by their exposure time interval - measured in days",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": "Longer the vulnerability is open greater the risk it will be exploited",
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Worst Case Loss ",
+    "MetricDescription": "Maximum dollar value of the damage/loss that could be inflicted by malicious personnel via a compromised control system",
+    "ReportPeriod": "Organization-defined",
+    "Target": "Not applicable. However, a lower value is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Detection Mechanism Deficiency Count",
+    "MetricDescription": "Number of externally accessible devices without any malware/attack detection mechanism.",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Password Crack Time",
+    "MetricDescription": "Minimum time (in days) needed to crack a single password for any\naccount on the control system.",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better Must be greater than password expiration time ",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Restoration time",
+    "MetricDescription": "Worst case elapsed time to restore system to normal business operations in a known uncorrupted version",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  },
+  {
+    "Category": "OT/ICS",
+    "SubCategory": null,
+    "MetricTitle": "Root privilege count",
+    "MetricDescription": "Unique user IDs with admin privilege (root) access privilege",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "US Homeland Security: Primer Control Systems Cyber Security Framework and Technical Metrics"
+  }
+]

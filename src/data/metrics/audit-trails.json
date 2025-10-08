@@ -1,0 +1,123 @@
+[
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Collection Rate",
+    "MetricDescription": "Percentage of systems generating logs as per policy requirements\nCalculation: (Number of systems generating logs / Total number of systems) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "100%",
+    "Comment": "Ensuring all systems generate logs is critical for effective monitoring and auditing.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Retention Compliance",
+    "MetricDescription": "Percentage of logs retained according to policy requirements\nCalculation: (Number of logs retained according to policy / Total number of logs) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Compliance with log retention policies is essential for regulatory and forensic requirements.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-92: Guide to Computer Security Log Management"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Integrity Verification Rate",
+    "MetricDescription": "Percentage of logs verified for integrity\nCalculation: (Number of logs verified / Total number of logs) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Verifying log integrity ensures that logs have not been tampered with.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27037: Guidelines for identification, collection, acquisition, and preservation of digital evidence"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Anomaly Detection Rate",
+    "MetricDescription": "Percentage of anomalies detected in audit logs\nCalculation: (Number of anomalies detected / Total number of logs) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "0.5% or lower",
+    "Comment": "Detecting anomalies in audit logs helps in identifying potential security incidents.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Audit Log Review Rate",
+    "MetricDescription": "Percentage of audit logs reviewed regularly\nCalculation: (Number of logs reviewed / Total number of logs) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "100%",
+    "Comment": "Regular review of audit logs is crucial for timely detection of suspicious activities.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Correlation Success Rate",
+    "MetricDescription": "Percentage of successful log correlations for incident investigations\nCalculation: (Number of successful log correlations / Total number of log correlation attempts) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "Effective log correlation is essential for comprehensive incident investigations.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-92: Guide to Computer Security Log Management"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Analysis Coverage",
+    "MetricDescription": "Percentage of critical systems whose logs are analyzed regularly\nCalculation: (Number of critical systems analyzed / Total number of critical systems) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Ensuring logs from all critical systems are analyzed helps in maintaining overall security.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Time to Review Logs",
+    "MetricDescription": "Average time taken to review and analyze logs\nCalculation: Total time taken to review logs divided by the number of logs.",
+    "ReportPeriod": "Monthly",
+    "Target": "Within 24 hours",
+    "Comment": "Timely review of logs is essential for early detection of security incidents.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-92: Guide to Computer Security Log Management"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Compliance Audit Success Rate",
+    "MetricDescription": "Percentage of successful compliance audits regarding log management\nCalculation: (Number of successful audits / Total number of audits) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Successful compliance audits indicate adherence to log management policies and regulations.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "Log Management Automation Rate",
+    "MetricDescription": "Percentage of log management processes that are automated\nCalculation: (Number of automated processes / Total number of processes) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "80% or higher",
+    "Comment": "Automating log management processes increases efficiency and reduces human error.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-137: Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations"
+  },
+  {
+    "Category": "Audit Trails",
+    "SubCategory": null,
+    "MetricTitle": "User Actions audit trail",
+    "MetricDescription": "% systems on which audit trails provide a trace of user actions ",
+    "ReportPeriod": "Organization-defined",
+    "Target": 1,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

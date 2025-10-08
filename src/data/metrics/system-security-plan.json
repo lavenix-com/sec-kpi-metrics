@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "System Security Plan",
+    "SubCategory": null,
+    "MetricTitle": "Systems with Security Plan",
+    "MetricDescription": "% systems with approved system security plans ",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "System Security Plan",
+    "SubCategory": null,
+    "MetricTitle": "Current Plans",
+    "MetricDescription": "% current securty plans",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%",
+    "Comment": "This helps \"to determine the currency of system security plans and to ensure that reviews take place periodically and that the plans are updated as necessary\"",
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

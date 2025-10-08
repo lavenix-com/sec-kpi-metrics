@@ -1,0 +1,79 @@
+[
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Patch Policy Compliance",
+    "MetricDescription": "% of systems not compliant to the patch policy",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean time to patch",
+    "MetricDescription": "Average time taken to apply patches (from date of patch availability)",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean cost to patch",
+    "MetricDescription": "Average cost to the organization to apply patches during the period",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Patch Management Coverage",
+    "MetricDescription": "% of systems under scope of patch management",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \n X % higher than previous period, \n X % increase over a defined period \n \n Higher is better",
+    "Comment": "At least critical systems should be covered in scope",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Current Anti-Malware Coverage",
+    "MetricDescription": "% of systems with the latest (current) antimalware",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \n X % higher than previous period, \n X % increase over a defined period \n \n Higher is better",
+    "Comment": "At least critical systems should be covered in scope",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time to Deploy Critical Patches",
+    "MetricDescription": "Average of the time elapsed between installation date and notification date of critical patches",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period \n \n Lower over time is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Patch Management",
+    "SubCategory": null,
+    "MetricTitle": "Patch testing",
+    "MetricDescription": "Average time to test patches (by HIGH, MEDIUM, LOW)",
+    "ReportPeriod": "Organization-defined",
+    "Target": "x% improvement over previous period \n (or different targets for each category - HIGH, MEDIUM, LOW)",
+    "Comment": "This can be broken down further by various factors - PC or Servers, OS, Location, Division, criticality of system etc",
+    "Contributor": "-",
+    "Source": "Some Vulnerabilities Are Different Than Others\n https://www.researchgate.net/publication/297709306_Some_Vulnerabilities_Are_Different_Than_Others"
+  }
+]

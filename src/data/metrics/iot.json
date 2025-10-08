@@ -1,0 +1,167 @@
+[
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Device Compliance Rate",
+    "MetricDescription": "Percentage of IoT devices compliant with security policies and standards\nCalculation: (Number of compliant devices / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "Ensuring devices meet security compliance standards is essential to mitigate risks.",
+    "Contributor": "-",
+    "Source": "ETSI EN 303 645: Cyber Security for Consumer Internet of Things"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Vulnerability Detection Rate",
+    "MetricDescription": "Percentage of identified vulnerabilities in IoT devices over a given period\nCalculation: (Number of identified vulnerabilities / Total number of devices) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "5% or lower",
+    "Comment": "Identifying and addressing vulnerabilities promptly reduces potential attack vectors.",
+    "Contributor": "-",
+    "Source": "OWASP IoT Top Ten Project"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Firmware Update Rate",
+    "MetricDescription": "Percentage of IoT devices updated with the latest firmware\nCalculation: (Number of devices updated / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "Regular firmware updates are critical to fix security vulnerabilities and enhance device performance.",
+    "Contributor": "-",
+    "Source": "NIST IR 8259: Foundational Cybersecurity Activities for IoT Device Manufacturers"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Incident Response Time",
+    "MetricDescription": "Average time taken to respond to security incidents involving IoT devices\nCalculation: Total time taken to respond to incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 1 hour",
+    "Comment": "Swift incident response helps to mitigate the impact of security breaches.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Encryption Usage Rate",
+    "MetricDescription": "Percentage of IoT devices using encryption for data transmission\nCalculation: (Number of devices using encryption / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Encryption is crucial for protecting data integrity and privacy in IoT communications.",
+    "Contributor": "-",
+    "Source": "GDPR: General Data Protection Regulation"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Unauthorized Access Attempts",
+    "MetricDescription": "Number of unauthorized access attempts detected on IoT devices\nCalculation: Total count of unauthorized access attempts.",
+    "ReportPeriod": "Monthly",
+    "Target": "0",
+    "Comment": "Monitoring and preventing unauthorized access is essential for the security of IoT systems.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27019: Information security management guidelines based on ISO/IEC 27002 for process control systems specific to the energy industry"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Device Availability",
+    "MetricDescription": "Percentage of time IoT devices are operational and available for use\nCalculation: (Total uptime / Total time) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "99.99%",
+    "Comment": "High device availability is critical to ensure continuous and reliable operations.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Device Authentication Failure Rate",
+    "MetricDescription": "Percentage of failed authentication attempts on IoT devices\nCalculation: (Number of failed authentication attempts / Total number of authentication attempts) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 2%",
+    "Comment": "Low authentication failure rate indicates robust authentication mechanisms and security.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-63: Digital Identity Guidelines"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Data Breach Incidents",
+    "MetricDescription": "Number of data breach incidents involving IoT devices\nCalculation: Total count of data breach incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "0",
+    "Comment": "Preventing data breaches is critical for maintaining the security and privacy of IoT data.",
+    "Contributor": "-",
+    "Source": "GDPR: General Data Protection Regulation"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Security Incident Rate",
+    "MetricDescription": "Number of security incidents involving IoT devices\nCalculation: Total count of security incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Reduction by 10% each month",
+    "Comment": "Reducing the number of security incidents helps in maintaining the overall security posture of IoT systems.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Device Compliance Rate",
+    "MetricDescription": "Percentage of IoT devices compliant with security policies and standards\nCalculation: (Number of compliant devices / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "Ensuring devices meet security compliance standards is essential to mitigate risks.",
+    "Contributor": "-",
+    "Source": "ETSI EN 303 645: Cyber Security for Consumer Internet of Things"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Vulnerability Detection Rate",
+    "MetricDescription": "Percentage of identified vulnerabilities in IoT devices over a given period\nCalculation: (Number of identified vulnerabilities / Total number of devices) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "5% or lower",
+    "Comment": "Identifying and addressing vulnerabilities promptly reduces potential attack vectors.",
+    "Contributor": "-",
+    "Source": "OWASP IoT Top Ten Project"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Firmware Update Rate",
+    "MetricDescription": "Percentage of IoT devices updated with the latest firmware\nCalculation: (Number of devices updated / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "Regular firmware updates are critical to fix security vulnerabilities and enhance device performance.",
+    "Contributor": "-",
+    "Source": "NIST IR 8259: Foundational Cybersecurity Activities for IoT Device Manufacturers"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Incident Response Time",
+    "MetricDescription": "Average time taken to respond to security incidents involving IoT devices\nCalculation: Total time taken to respond to incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 1 hour",
+    "Comment": "Swift incident response helps to mitigate the impact of security breaches.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "IoT",
+    "SubCategory": null,
+    "MetricTitle": "Encryption Usage Rate",
+    "MetricDescription": "Percentage of IoT devices using encryption for data transmission\nCalculation: (Number of devices using encryption / Total number of devices) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Encryption is crucial for protecting data integrity and privacy in IoT communications.",
+    "Contributor": "-",
+    "Source": "GDPR: General Data Protection Regulation"
+  }
+]

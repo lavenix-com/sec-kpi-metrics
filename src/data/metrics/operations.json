@@ -1,0 +1,46 @@
+[
+  {
+    "Category": "Operations",
+    "SubCategory": "SSL Certificates",
+    "MetricTitle": "SSL Certificates that cannot be trusted",
+    "MetricDescription": "Count of SSL Certificates that cannot be trusted",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period \n \n Lower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CISA Cyber Hygiene Sample Report (https://us-cert.cisa.gov/sites/default/files/resources/ncats/CyHy%20Sample%20Report_508C.pdf)"
+  },
+  {
+    "Category": "Operations",
+    "SubCategory": "SSL Certificates",
+    "MetricTitle": "SSL Self Signed Certificates",
+    "MetricDescription": "Count of SSL Self Signed Certificates",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period \n \n Lower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CISA Cyber Hygiene Sample Report (https://us-cert.cisa.gov/sites/default/files/resources/ncats/CyHy%20Sample%20Report_508C.pdf)"
+  },
+  {
+    "Category": "Operations",
+    "SubCategory": "SSL Certificates",
+    "MetricTitle": "SSL Medium Strength Certificates",
+    "MetricDescription": "Count of SSL Medium Strength Certificates",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period \n \n Lower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CISA Cyber Hygiene Sample Report (https://us-cert.cisa.gov/sites/default/files/resources/ncats/CyHy%20Sample%20Report_508C.pdf)"
+  },
+  {
+    "Category": "Operations",
+    "SubCategory": "SSL Certificates",
+    "MetricTitle": "Expiring Certificates",
+    "MetricDescription": "Count of SSL certificates expiring in the next 3 months",
+    "ReportPeriod": "Organization-defined",
+    "Target": "None",
+    "Comment": "When showing this, you can also highlight the actions planned for renewing them",
+    "Contributor": "-",
+    "Source": null
+  }
+]

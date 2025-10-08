@@ -1,0 +1,35 @@
+[
+  {
+    "Category": "Logical Access Control",
+    "SubCategory": null,
+    "MetricTitle": "Non-security users with access to security systems",
+    "MetricDescription": "% users with access to security software that are not security administrators",
+    "ReportPeriod": "Organization-defined",
+    "Target": 0,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Logical Access Control",
+    "SubCategory": null,
+    "MetricTitle": "Restricted protocols",
+    "MetricDescription": "% systems running restricted protocols",
+    "ReportPeriod": "Organization-defined",
+    "Target": 0,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Logical Access Control",
+    "SubCategory": null,
+    "MetricTitle": "Privacy Policy",
+    "MetricDescription": "% websites with a posted privacy policy",
+    "ReportPeriod": "Organization-defined",
+    "Target": 1,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

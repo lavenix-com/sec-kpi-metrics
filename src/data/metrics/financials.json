@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "Financials",
+    "SubCategory": null,
+    "MetricTitle": "Percent of IT budget allocated to information security",
+    "MetricDescription": "% of IT budget allocated to security related spending",
+    "ReportPeriod": "Specified reporting period, depending on budget cycle",
+    "Target": "None",
+    "Comment": "Tracking this across years also could be useful",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Financials",
+    "SubCategory": null,
+    "MetricTitle": "Security Budget Allocation",
+    "MetricDescription": "Break up of items within security budget",
+    "ReportPeriod": "Specified reporting period, depending on budget cycle",
+    "Target": "None",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  }
+]

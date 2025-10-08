@@ -1,0 +1,134 @@
+[
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Identification Rate",
+    "MetricDescription": "Percentage of risks identified during risk assessments\nCalculation: (Number of identified risks / Total number of potential risks) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "A high risk identification rate ensures comprehensive coverage of potential security risks.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27005: Information security risk management"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Mitigation Rate",
+    "MetricDescription": "Percentage of identified risks that have been mitigated\nCalculation: (Number of mitigated risks / Total number of identified risks) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "80% or higher",
+    "Comment": "Effective risk mitigation is crucial for reducing the impact of potential security threats.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-30: Guide for Conducting Risk Assessments"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Assessment Frequency",
+    "MetricDescription": "Average time interval between consecutive risk assessments\nCalculation: Total time period divided by the number of assessments conducted.",
+    "ReportPeriod": "Annual",
+    "Target": "At least once per year",
+    "Comment": "Regular risk assessments help in continuously monitoring and managing security risks.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Acceptance Rate",
+    "MetricDescription": "Percentage of identified risks that have been accepted without mitigation\nCalculation: (Number of accepted risks / Total number of identified risks) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 10%",
+    "Comment": "Keeping the risk acceptance rate low ensures that most identified risks are being addressed.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27005: Information security risk management"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Assessment Accuracy",
+    "MetricDescription": "Percentage of accurate risk assessments based on post-incident reviews\nCalculation: (Number of accurate assessments / Total number of assessments) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "90% or higher",
+    "Comment": "Accurate risk assessments are critical for effective risk management and mitigation strategies.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-30: Guide for Conducting Risk Assessments"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Control Effectiveness Rate",
+    "MetricDescription": "Percentage of security controls that are effective in mitigating identified risks\nCalculation: (Number of effective controls / Total number of controls) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "85% or higher",
+    "Comment": "Evaluating control effectiveness helps in ensuring the implemented controls are working as intended.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Residual Risk Level",
+    "MetricDescription": "Average level of residual risk after mitigation measures have been applied\nCalculation: Total residual risk level divided by the number of risks.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Low",
+    "Comment": "Minimizing residual risk is essential for maintaining a secure environment.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27005: Information security risk management"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Third-Party Risk Assessment Rate",
+    "MetricDescription": "Percentage of third-party vendors assessed for security risks\nCalculation: (Number of vendors assessed / Total number of vendors) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Assessing third-party risks is critical for ensuring overall organizational security.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-161: Supply Chain Risk Management Practices for Federal Information Systems and Organizations"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "High-Risk Findings Closure Rate",
+    "MetricDescription": "Percentage of high-risk findings closed within a specified time frame\nCalculation: (Number of high-risk findings closed / Total number of high-risk findings) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "90% or higher within 30 days",
+    "Comment": "Closing high-risk findings promptly is crucial for minimizing exposure to significant threats.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27005: Information security risk management"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Risk Assessment Coverage",
+    "MetricDescription": "Percentage of critical assets covered by risk assessments\nCalculation: (Number of critical assets assessed / Total number of critical assets) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Ensuring all critical assets are covered by risk assessments is vital for comprehensive risk management.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-30: Guide for Conducting Risk Assessments"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "System Risk Assessment",
+    "MetricDescription": "% systems that had formal risk assessments completed in relation to the organization's requirements",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better\nPer NIST, 100% within 3 years",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Risk Assessment",
+    "SubCategory": null,
+    "MetricTitle": "Management Review",
+    "MetricDescription": "% systems that have had high risk levels reviewed by management ",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

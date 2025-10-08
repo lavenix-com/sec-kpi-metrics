@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "Documentation",
+    "SubCategory": null,
+    "MetricTitle": "Inhouse application documentation",
+    "MetricDescription": "% in-house applications with documentations ",
+    "ReportPeriod": "Organization-defined",
+    "Target": 1,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Documentation",
+    "SubCategory": null,
+    "MetricTitle": "Documented Risk Assessment",
+    "MetricDescription": "% systems with documented risk assessment reports",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%. Good idea to insist on this for at least the critical systems ",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Category": "Measuring Defenses",
+    "SubCategory": null,
+    "MetricTitle": "Reaction time",
+    "MetricDescription": "Average time to block a malicious entity (IP, URL, C&C etc) measured from first observation to actual blacklisting",
+    "ReportPeriod": "Organization-defined",
+    "Target": "x% improvement over previous period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "Some Vulnerabilities Are Different Than Others\n https://www.researchgate.net/publication/297709306_Some_Vulnerabilities_Are_Different_Than_Others"
+  }
+]

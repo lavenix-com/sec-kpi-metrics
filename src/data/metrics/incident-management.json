@@ -1,0 +1,101 @@
+[
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time to Incident Discovery",
+    "MetricDescription": "Average of all security incident discovery time (Date of Occurrence - Date of Discovery)",
+    "ReportPeriod": "Organization-defined",
+    "Target": "x % lower than previous reporting period OR \n x % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time between Security Incidents",
+    "MetricDescription": "Average of the time elapsed between various incidents during the reporting period",
+    "ReportPeriod": "Organization-defined",
+    "Target": "x % lower than previous reporting period OR \n x % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time to Incident Recovery",
+    "MetricDescription": "Average of the recovery time for various incidents during the period",
+    "ReportPeriod": "Organization-defined",
+    "Target": "x % lower than previous reporting period OR \n x % reduction over a defined period",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Cost of Incidents",
+    "MetricDescription": "Sum of all the cost incurred by the organization to resolve incidents",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower (determined by risk assessments) As per CIS \"expected loss budget determined by risk assessments processes\"",
+    "Comment": "Cost is inclusive of labor cost ( hourly rate X time spent on the incident) \n \n Could be further broken down into - type of incidents, technologies, services, locations, etc",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Cost of Incidents",
+    "MetricDescription": "Average cost from incidents during the period",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower (determined by risk assessments) As per CIS \"expected loss budget determined by risk assessments processes\"",
+    "Comment": "Cost is inclusive of labor cost ( hourly rate X time spent on the incident) \n \n Could be further broken down into - type of incidents, technologies, services, locations, etc",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Incident Recovery Cost",
+    "MetricDescription": "Average cost to recover, incurred per incident during the period",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower (determined by risk assessments) As per CIS \"expected loss budget determined by risk assessments processes\"\n \n Lower is better",
+    "Comment": "Cost is inclusive of labor cost ( hourly rate X time spent on the incident) \n \n Could be further broken down into - type of incidents, technologies, services, locations, etc",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Incidents",
+    "MetricDescription": "Number of incidents during the ReportPeriod",
+    "ReportPeriod": "Organization-defined",
+    "Target": "None",
+    "Comment": "A higher value is generally considered not great but it needs to be investigated by the organization",
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time from Discovery to Containment",
+    "MetricDescription": "Average of the time elapsed between containment and discovery of security incidents",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \n X % lower than previous period, \n X % reduction over a defined period \n \n Lower over time is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "CIS Security Metrics v1.1.0"
+  },
+  {
+    "Category": "Incident Management",
+    "SubCategory": null,
+    "MetricTitle": "Loss due to incidents",
+    "MetricDescription": "Financial loss due to top 3 security incidents",
+    "ReportPeriod": "Organization-defined",
+    "Target": "No target",
+    "Comment": "No target but it can be used to identify remediation plans to prevent such an incident in future",
+    "Contributor": "-",
+    "Source": null
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Training Completion Rate",
+    "MetricDescription": "Percentage of employees who have completed mandatory security awareness training\nCalculation: (Number of employees who completed training / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Ensuring all employees complete security awareness training is critical for reducing human-related security risks.",
+    "Contributor": "-",
+    "Source": "ENISA: Awareness Raising in Network and Information Security"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Phishing Simulation Success Rate",
+    "MetricDescription": "Percentage of successful phishing attempts in awareness simulations\nCalculation: (Number of employees who fell for phishing / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 5%",
+    "Comment": "Lower success rates in phishing simulations indicate better awareness among employees.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-50: Building an Information Technology Security Awareness and Training Program"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Policy Acknowledgment Rate",
+    "MetricDescription": "Percentage of employees who have acknowledged reading and understanding security policies\nCalculation: (Number of acknowledgments / Total number of employees) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Ensuring employees acknowledge security policies helps in reinforcing their importance.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Security Quiz Pass Rate",
+    "MetricDescription": "Percentage of employees who pass security awareness quizzes\nCalculation: (Number of employees who passed / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "High pass rates indicate good understanding of security principles among employees.",
+    "Contributor": "-",
+    "Source": "SANS Security Awareness Program"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Incident Reporting Rate",
+    "MetricDescription": "Percentage of employees who report security incidents\nCalculation: (Number of incident reports / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "20% or higher",
+    "Comment": "Encouraging incident reporting helps in early detection and mitigation of security issues.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Awareness Campaign Reach",
+    "MetricDescription": "Percentage of employees reached by security awareness campaigns\nCalculation: (Number of employees reached / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Ensuring all employees are reached by awareness campaigns maximizes their effectiveness.",
+    "Contributor": "-",
+    "Source": "ENISA: Awareness Raising in Network and Information Security"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Behavioral Change Rate",
+    "MetricDescription": "Percentage change in secure behaviors observed after awareness training\nCalculation: ((Post-training secure behaviors - Pre-training secure behaviors) / Pre-training secure behaviors) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "30% improvement",
+    "Comment": "Measuring behavioral changes helps in assessing the effectiveness of awareness programs.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Compliance Rate with Security Procedures",
+    "MetricDescription": "Percentage of employees complying with established security procedures\nCalculation: (Number of employees complying / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "High compliance rates indicate strong adherence to security procedures.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27001: Information Security Management Systems"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Security Culture Index",
+    "MetricDescription": "Composite score measuring the overall security culture within the organization\nCalculation: Aggregate score based on surveys, observations, and compliance rates.",
+    "ReportPeriod": "Annual",
+    "Target": "Increase by 10% each year",
+    "Comment": "A strong security culture is essential for sustainable security improvements.",
+    "Contributor": "-",
+    "Source": "ENISA: Security Culture in Organizations"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Awareness Content Engagement Rate",
+    "MetricDescription": "Percentage of employees actively engaging with security awareness content\nCalculation: (Number of engaged employees / Total number of employees) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "80% or higher",
+    "Comment": "High engagement rates with awareness content indicate effective and relevant training materials.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-50: Building an Information Technology Security Awareness and Training Program"
+  },
+  {
+    "Category": "Awareness",
+    "SubCategory": null,
+    "MetricTitle": "Security staff awareness and training",
+    "MetricDescription": "% staff with significant security responsibilities who have received specialized training",
+    "ReportPeriod": "Annually, at a minimum",
+    "Target": 1,
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

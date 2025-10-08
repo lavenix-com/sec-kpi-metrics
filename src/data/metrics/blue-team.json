@@ -1,0 +1,112 @@
+[
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Detection Time",
+    "MetricDescription": "Average time taken to detect security incidents\nCalculation: Total time taken to detect incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 1 hour",
+    "Comment": "Reducing detection time helps in minimizing the impact of security incidents.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Response Time",
+    "MetricDescription": "Average time taken to respond to security incidents\nCalculation: Total time taken to respond to incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 30 minutes",
+    "Comment": "Quick response times are crucial for containing and mitigating security incidents.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Resolution Time",
+    "MetricDescription": "Average time taken to resolve security incidents\nCalculation: Total time taken to resolve incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 4 hours",
+    "Comment": "Minimizing resolution time helps in restoring normal operations quickly.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "False Positive Rate",
+    "MetricDescription": "Percentage of security alerts that are false positives\nCalculation: (Number of false positive alerts / Total number of alerts) * 100.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 5%",
+    "Comment": "Reducing false positive rate helps in improving the efficiency of the blue team.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27002: Code of practice for information security controls"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Recovery Rate",
+    "MetricDescription": "Percentage of incidents successfully recovered without data loss\nCalculation: (Number of incidents recovered without data loss / Total number of incidents) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "95% or higher",
+    "Comment": "A high recovery rate indicates effective recovery procedures and resilience.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-34: Contingency Planning Guide for Federal Information Systems"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Security Awareness Training Completion Rate",
+    "MetricDescription": "Percentage of employees who have completed security awareness training\nCalculation: (Number of trained employees / Total number of employees) * 100.",
+    "ReportPeriod": "Annual",
+    "Target": "100%",
+    "Comment": "Ensuring all employees complete security awareness training helps in reducing human-related security risks.",
+    "Contributor": "-",
+    "Source": "ENISA: Awareness Raising in Network and Information Security"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Detection Coverage",
+    "MetricDescription": "Percentage of attack vectors covered by incident detection systems\nCalculation: (Number of covered attack vectors / Total number of known attack vectors) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "90% or higher",
+    "Comment": "High detection coverage ensures comprehensive monitoring and detection capabilities.",
+    "Contributor": "-",
+    "Source": "MITRE ATT&CK Framework"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Mean Time to Contain (MTTC)",
+    "MetricDescription": "Average time taken to contain security incidents\nCalculation: Total time taken to contain incidents divided by the number of incidents.",
+    "ReportPeriod": "Monthly",
+    "Target": "Less than 2 hours",
+    "Comment": "Reducing the time to contain incidents helps in minimizing the spread and impact of security breaches.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Incident Escalation Rate",
+    "MetricDescription": "Percentage of incidents that require escalation to higher levels of management\nCalculation: (Number of escalated incidents / Total number of incidents) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "Less than 10%",
+    "Comment": "Lower escalation rates indicate effective initial incident handling and resolution.",
+    "Contributor": "-",
+    "Source": "ISO/IEC 27035: Information security incident management"
+  },
+  {
+    "Category": "Blue Team",
+    "SubCategory": null,
+    "MetricTitle": "Post-Incident Review Rate",
+    "MetricDescription": "Percentage of incidents followed by a post-incident review\nCalculation: (Number of incidents with reviews / Total number of incidents) * 100.",
+    "ReportPeriod": "Quarterly",
+    "Target": "100%",
+    "Comment": "Conducting post-incident reviews helps in identifying lessons learned and improving future incident handling.",
+    "Contributor": "-",
+    "Source": "NIST SP 800-61: Computer Security Incident Handling Guide"
+  }
+]

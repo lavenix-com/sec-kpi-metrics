@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "Incident Response",
+    "SubCategory": null,
+    "MetricTitle": "Incident Response capability",
+    "MetricDescription": "% agency components with incident handling and response capability",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Incident Response",
+    "SubCategory": null,
+    "MetricTitle": "Information Sharing",
+    "MetricDescription": "Number of incidents reported to FedCIRC, NIPC, and local law enforcement",
+    "ReportPeriod": "Organization-defined",
+    "Target": "None",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]

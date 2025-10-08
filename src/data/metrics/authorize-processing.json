@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "Authorize Processing",
+    "SubCategory": null,
+    "MetricTitle": "Authorized Systems ",
+    "MetricDescription": "% systems that have been for processing following certification and accreditation",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X % or higher, \nX % higher than previous period, \nX % increase over a defined period \n\nHigher is better, ideally 100%",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  },
+  {
+    "Category": "Authorize Processing",
+    "SubCategory": null,
+    "MetricTitle": "IATO Systems ",
+    "MetricDescription": "% systems that are operating under an Interim Authority to Operate (IATO)",
+    "ReportPeriod": "Organization-defined",
+    "Target": "X or lower, \nX % lower than previous period, \nX % reduction over a defined period \n\nLower is better",
+    "Comment": null,
+    "Contributor": "-",
+    "Source": "NIST (Archived): SP 800-55, Security Metrics Guide for Information Technology Systems"
+  }
+]
