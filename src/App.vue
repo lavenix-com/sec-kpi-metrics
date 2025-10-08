@@ -192,6 +192,13 @@ const selectCategory = (category: string) => {
         <div class="px-6 py-6">
           <h2 class="text-lg font-semibold tracking-tight text-white">KPI Matrix</h2>
           <p class="mt-2 text-sm text-slate-400">Curated cybersecurity metrics by focus area.</p>
+          <a
+            class="mt-4 inline-flex gap-2 text-sm font-semibold text-white hover:text-emerald-300"
+            href="https://github.com/lavenix-com/sec-kpi-metrics"
+          >
+            <font-awesome-icon :icon="['fab', 'github']" class="text-lg" />
+            View on GitHub
+          </a>
         </div>
         <nav class="flex-1 space-y-1 px-4 pb-6">
           <button
